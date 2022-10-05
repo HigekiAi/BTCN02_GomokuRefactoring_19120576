@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BTCN02_GomokuRefactoring_19120576/static/css/main.e0e2e62b.css",
+    "main.js": "/BTCN02_GomokuRefactoring_19120576/static/js/main.f473b5e0.js",
+    "static/js/787.ad6089d3.chunk.js": "/BTCN02_GomokuRefactoring_19120576/static/js/787.ad6089d3.chunk.js",
+    "index.html": "/BTCN02_GomokuRefactoring_19120576/index.html",
+    "main.e0e2e62b.css.map": "/BTCN02_GomokuRefactoring_19120576/static/css/main.e0e2e62b.css.map",
+    "main.f473b5e0.js.map": "/BTCN02_GomokuRefactoring_19120576/static/js/main.f473b5e0.js.map",
+    "787.ad6089d3.chunk.js.map": "/BTCN02_GomokuRefactoring_19120576/static/js/787.ad6089d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0e2e62b.css",
+    "static/js/main.f473b5e0.js"
+  ]
+}
